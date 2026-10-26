@@ -890,3 +890,7 @@ body.blog .pagination {
         overflow-x: auto;
     }
 }
+
+footer a::after {
+    display: none;
+}
